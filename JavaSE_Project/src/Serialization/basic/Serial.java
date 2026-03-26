@@ -5,13 +5,13 @@ import java.io.*;
 public class Serial {
 
 	public static void main(String[] args) throws IOException{
-		Person p = new Person("MAHTAB ALI", 23, "INDIA");
-		FileOutputStream fos = new FileOutputStream("abc.txt");
+		Person p = new Person("MAHTAB ALI", 24, "Saharanpur,INDIA");
+		FileOutputStream fos = new FileOutputStream("abc.text");
 		ObjectOutputStream oos = new ObjectOutputStream(fos);
 		oos.writeObject(p);
 		oos.close();
 		fos.close();
-		System.out.println("Serilization has completed...");
+		System.out.println("Serialization is done...");
 	}
 	
 }

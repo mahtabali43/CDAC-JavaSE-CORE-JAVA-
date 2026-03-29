@@ -1,0 +1,22 @@
+| Section                  | Topics Covered                                                     | Type              | No. of Questions | Time      |
+| ------------------------ | ------------------------------------------------------------------ | ----------------- | ---------------- | --------- |
+| **Section A**            | Core Programming (C, C++, Java, OOPs)                              | MCQs              | \~20–25          | Combined  |
+| **Section B**            | Aptitude (Quantitative, Logical Reasoning, English)                | MCQs              | \~20             | \~90 mins |
+| **Section C**            | Computer Fundamentals (DBMS, OS, CN, SDLC, Software Engg.)         | MCQs              | \~15–20          |           |
+| **Section D**            | Technologies (Web tech, .NET/Java/Spring basics, HTML/CSS/JS, SQL) | MCQs + Few coding | \~15–20          |           |
+| **Section E (Optional)** | Coding Questions (Java/C/C++) – Short programs, logic-based        | Coding (Online)   | 2–3              |           |
+Number of copied Char is 1016| Section                  | Topics Covered                                                     | Type              | No. of Questions | Time      |
+| ------------------------ | ------------------------------------------------------------------ | ----------------- | ---------------- | --------- |
+| **Section A**            | Core Programming (C, C++, Java, OOPs)                              | MCQs              | \~20–25          | Combined  |
+| **Section B**            | Aptitude (Quantitative, Logical Reasoning, English)                | MCQs              | \~20             | \~90 mins |
+| **Section C**            | Computer Fundamentals (DBMS, OS, CN, SDLC, Software Engg.)         | MCQs              | \~15–20          |           |
+| **Section D**            | Technologies (Web tech, .NET/Java/Spring basics, HTML/CSS/JS, SQL) | MCQs + Few coding | \~15–20          |           |
+| **Section E (Optional)** | Coding Questions (Java/C/C++) – Short programs, logic-based        | Coding (Online)   | 2–3              |           |
+Number of copied Char is 2095| Section                  | Topics Covered                                                     | Type              | No. of Questions | Time      |
+| ------------------------ | ------------------------------------------------------------------ | ----------------- | ---------------- | --------- |
+| **Section A**            | Core Programming (C, C++, Java, OOPs)                              | MCQs              | \~20–25          | Combined  |
+| **Section B**            | Aptitude (Quantitative, Logical Reasoning, English)                | MCQs              | \~20             | \~90 mins |
+| **Section C**            | Computer Fundamentals (DBMS, OS, CN, SDLC, Software Engg.)         | MCQs              | \~15–20          |           |
+| **Section D**            | Technologies (Web tech, .NET/Java/Spring basics, HTML/CSS/JS, SQL) | MCQs + Few coding | \~15–20          |           |
+| **Section E (Optional)** | Coding Questions (Java/C/C++) – Short programs, logic-based        | Coding (Online)   | 2–3              |           |
+Number of copied Char is 3174

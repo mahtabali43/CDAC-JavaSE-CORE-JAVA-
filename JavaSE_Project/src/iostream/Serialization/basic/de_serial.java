@@ -1,4 +1,4 @@
-package Serialization.basic;
+package iostream.Serialization.basic;
 
 import java.io.*;
 
@@ -11,6 +11,8 @@ public class de_serial {
 		        Person p1 = (Person)ois.readObject();
 		        p1.disp();
 		System.out.println("De-Serialization done...");
+		ois.close();
+		fis.close();
 	}
 
 }

@@ -16,5 +16,11 @@ public class Animal implements Serializable{
         public void disp() {
         	System.out.println("Name: "+name+", Age: "+age+", Legs: "+ legs);
         }
+
+		@Override
+		public String toString() {
+			return "Animal [name=" + name + ", legs=" + legs + ", age=" + age + "]";
+		}
+        
         
 }
